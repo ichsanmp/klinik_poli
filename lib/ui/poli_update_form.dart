@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:klinik_app/model/poli.dart';
-import 'package:klinik_app/service/poli_service.dart';
-import 'package:klinik_app/ui/poli_detail.dart';
+import 'package:klinik_application/model/poli.dart';
+import 'package:klinik_application/service/poli_service.dart';
+import 'package:klinik_application/ui/poli_detail.dart';
 import 'package:dio/dio.dart';
 
 class PoliUpdateForm extends StatefulWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:klinik_app/ui/beranda.dart';
-import 'package:klinik_app/ui/login.dart';
-import 'package:klinik_app/ui/poli_page.dart';
+import 'package:klinik_application/ui/beranda.dart';
+import 'package:klinik_application/ui/login.dart';
+import 'package:klinik_application/ui/poli_page.dart';
 
 class Sidebar extends StatelessWidget {
   const Sidebar({Key? key}) : super(key: key);

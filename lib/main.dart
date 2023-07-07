@@ -8,7 +8,7 @@ Future<void> main() async {
   var token = await UserInfo().getToken();
   print(token);
   runApp(MaterialApp(
-    title: "Klinik APP",
+    title: "Klinik Application",
     debugShowCheckedModeBanner: false,
     home: token == null ? Login() : Beranda(),
   ));

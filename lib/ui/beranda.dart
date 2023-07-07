@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:klinik_app/ui/widget/sidebar.dart';
+import 'package:klinik_application/ui/widget/sidebar.dart';
 import 'package:dio/dio.dart';
 
 class Beranda extends StatelessWidget {

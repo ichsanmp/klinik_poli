@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:klinik_app/service/poli_service.dart';
+import 'package:klinik_application/service/poli_service.dart';
 import '../model/poli.dart';
 import '../service/poli_service.dart';
 import 'poli_detail.dart';
 import 'poli_item.dart';
 import 'poli_form.dart';
-import 'package:klinik_app/ui/widget/sidebar.dart';
+import 'package:klinik_application/ui/widget/sidebar.dart';
 import 'package:dio/dio.dart';
 
 class PoliPage extends StatefulWidget {

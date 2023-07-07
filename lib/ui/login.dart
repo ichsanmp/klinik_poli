@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:klinik_app/service/login_service.dart';
-import 'package:klinik_app/ui/beranda.dart';
+import 'package:klinik_application/service/login_service.dart';
+import 'package:klinik_application/ui/beranda.dart';
 
 class Login extends StatefulWidget {
   const Login({Key? key}) : super(key: key);
