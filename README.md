@@ -1,4 +1,4 @@
-# klinik_app
+# klinik_application
 
 A new Flutter project.
 
